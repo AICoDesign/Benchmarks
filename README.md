@@ -3,3 +3,6 @@ This repository contains examples of multi-modal deep neural networks that we us
 
 
 The examples directory may contain non multi-modal deep neural networks that are of some interest.
+
+
+Some of the infrastructure comes from the ECP-CANDLE project.
